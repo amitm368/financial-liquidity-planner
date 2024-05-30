@@ -13,7 +13,7 @@ const App: React.FC = () => {
           justifyContent: "start",
         }}
       >
-        <h1 style={{ marginBottom: "0px" }}>Financial liquidity planner</h1>
+        <h1 style={{ marginBottom: "0px" }}>Financial liquidity planner By Amit Mishra</h1>
       </div>
 
       {/* Pass headerColors as prop to LiquidityPlanner */}
