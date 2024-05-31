@@ -24,6 +24,7 @@ To get started with the Financial Liquidity Planner, follow these steps:
     ```bash
     git clone https://github.com/amitm368/financial-liquidity-planner.git
     cd financial-liquidity-planner
+    git checkout master
     ```
 
 2. **Install dependencies**
