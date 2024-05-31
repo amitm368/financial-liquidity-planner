@@ -44,7 +44,7 @@ To get started with the Financial Liquidity Planner, follow these steps:
 
 ## Usage
 
-After starting the development server, open your browser and navigate to `http://localhost:3000`. You can now start using the Financial Liquidity Planner.
+After starting the development server, open your browser and navigate to `http://localhost:5173`. You can now start using the Financial Liquidity Planner.
 
 ### Adding Financial Data
 
